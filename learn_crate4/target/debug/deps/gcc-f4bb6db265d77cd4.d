@@ -1,0 +1,12 @@
+D:\rust\learn_crate4\target\debug\deps\libgcc-f4bb6db265d77cd4.rmeta: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+D:\rust\learn_crate4\target\debug\deps\libgcc-f4bb6db265d77cd4.rlib: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+D:\rust\learn_crate4\target\debug\deps\gcc-f4bb6db265d77cd4.d: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs:

@@ -1,0 +1,11 @@
+D:\rust\learn_crate4\target\debug\deps\liblibc-e757954f589ff9cc.rmeta: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+D:\rust\learn_crate4\target\debug\deps\liblibc-e757954f589ff9cc.rlib: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+D:\rust\learn_crate4\target\debug\deps\libc-e757954f589ff9cc.d: C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs:
+C:\Users\Sihan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs:
